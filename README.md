@@ -12,13 +12,13 @@ https://github.com/ryanrombough/angular-percent-circle-directive
 ### Install via Bower or Node
 
 ```bash
-bower install --save angular-percent-circle-directive
+bower install --save ng-percent-circle-directive
 ```
 
 or
 
 ```bash
-npm install --save angular-percent-circle-directive
+npm install --save ng-percent-circle-directive
 ```
 
 ### Link to CSS File
