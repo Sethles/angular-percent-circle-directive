@@ -1,3 +1,6 @@
+THE ORIGANAL AUTHER OF THIS DIRECTIVE CAN BE FOUND HERE: 
+https://github.com/ryanrombough/angular-percent-circle-directive
+
 # Angular Percent Circle Directive
 
 <img src="https://raw.githubusercontent.com/ryanrombough/angular-percent-circle-directive/master/src/img/example1.PNG" width="200px">
